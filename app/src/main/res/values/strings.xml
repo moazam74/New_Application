@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">New_Application</string>
+    <string name="id_hint">Please Enter Id Number</string>
+    <string name="id_hint2">Moazam Khan</string>
+    <string name="submit">Submit</string>
+    <string name="textview">TextView</string>
+</resources>
